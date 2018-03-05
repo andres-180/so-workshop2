@@ -2,7 +2,7 @@
 ### Taller 2
 **Universidad ICESI**  
 **Curso:** Sistemas Operativos  
-**Tema:** Llamadas al sistema (Syscalls) 
+**Tema:** Llamadas al sistema (Syscalls)   
 **Estudiante:** Andrès Felipe Pèrez 
 **Código:** A00056964
 #### Llamadas al Sistema
