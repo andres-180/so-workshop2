@@ -2,10 +2,10 @@
 ### Taller 2
 **Universidad ICESI**  
 **Curso:** Sistemas Operativos  
-**Tema:** Llamadas al sistema (Syscalls)
-**Estudiante:** Andrès Felipe Pèrez 
-**Código:** A00056964
+**Tema:** Llamadas al sistema (Syscalls) 
+**Estudiante:** AndrÃ¨s Felipe PÃ¨rez 
+**CÃ³digo:** A00056964
 #### Llamadas al Sistema
-- **time:** Devuelve el tiempo como el número de segundos desde la Época, 1970-01-01 00:00:00 +0000 (UTC). 
+- **time:** Devuelve el tiempo como el nÃºmero de segundos desde la Ã‰poca, 1970-01-01 00:00:00 +0000 (UTC). 
 - **getuid:** Devuelve el ID de usuario real del proceso de llamada.
-- **sysinfo:** Retorna información generalizada de estadísticas del sistema.
+- **sysinfo:** Retorna informaciÃ³n generalizada de estadÃ­sticas del sistema.
